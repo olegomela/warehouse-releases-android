@@ -5,7 +5,7 @@ Stable basic WMS functionality (accounting).
 
 Local standalone application.
 
-Local database based on .csv files; preserved when uninstalling/reinstalling the application.
+Local database; preserved when uninstalling/reinstalling the application.
 Sample database for reference.
 
 Scanning the barcode/QR code into the Product name using device’s camera.

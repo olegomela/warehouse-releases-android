@@ -5,8 +5,10 @@ Stable basic WMS functionality (accounting).
 
 Local standalone application.
 
-Local database; preserved when uninstalling/reinstalling the application.
+Local database.
 Sample database for reference.
+
+Please note: Uninstalling the Android app deletes its databases. Before uninstalling, save every database you need with "Export for desktop (ZIP)".
 
 Scanning the barcode/QR code into the Product name using device’s camera.
 

@@ -3,14 +3,14 @@ Simple Warehouse WMS App for Android - .apk releases
 
 Stable basic WMS functionality (accounting).
 
+Scanning the barcode/QR code into the Product name using device’s camera.
+
 Local standalone application.
 
 Local database.
 Sample database for reference.
 
 Please note: Uninstalling the Android app deletes its databases. Before uninstalling, save every database you need with "Export for desktop (ZIP)".
-
-Scanning the barcode/QR code into the Product name using device’s camera.
 
 Interface languages: 
   - 🇬🇧 English
